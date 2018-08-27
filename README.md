@@ -8,6 +8,8 @@ The app does the following functions
 * Able to **share the file** genarated in an for i.e. via. mail, whatsapp etc
 
 ## Screenshots
-* one
-![](Visual-Inspection-Report-App/home_screen.png)
+* Home Screen of the app
+<img src="home_screen.png" width="200" height="400" />
+* Steps screen of the app
+<img src="steps_screen.png" width="200" height="400" />
 
