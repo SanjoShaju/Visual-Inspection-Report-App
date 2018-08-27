@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZFapp</string>
+    <string name="hint_part_name">Enter Part Name here</string>
+    <string name="hint_part_no">Enter Part Number here</string>
+    <string name="hint_emp_no">Enter Employee Number here</string>
+    <string name="hint_cmm_no">Enter CM Number here</string>
+    <string name="hint_remarks">Enter Remarks here</string>
+
+</resources>

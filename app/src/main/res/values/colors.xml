@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#51d8c7</color>
+    <color name="colorPrimaryDark">#51d8c7</color>
+    <color name="colorAccent">#51d8c7</color>
+    <color name="colorBackground">#413e4f</color>
+    <color name="colorText">#08070a</color>
+    <color name="colorTextHint">#9f9a9c</color>
+    <color name="colorButton">#51d8c7</color>
+    <color name="transparentBlue">#8ab6e4e4</color>
+    <color name="colorButtonDialog">#00ffffff</color>
+    <color name="colorTextDialog">#00ffffff</color>
+    <color name= "colorTest">#c6df3d3d</color>
+
+</resources>

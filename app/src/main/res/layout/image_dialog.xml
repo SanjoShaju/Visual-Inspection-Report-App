@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="260dp"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:scaleType="fitXY"
+    android:background="@drawable/partpicture">
+    <LinearLayout android:layout_width="300dp" android:layout_height="20dp" android:background="@color/colorButtonDialog"></LinearLayout>
+    <LinearLayout android:layout_width="300dp" android:layout_height="20dp" android:orientation="horizontal">
+        <Button android:id="@+id/a0" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog"/>
+        <Button android:id="@+id/a1" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/a2" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog"/>
+        <Button android:id="@+id/a3" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/a4" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/a5" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/a6" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/a7" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/a8" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/a9" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/a10" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/a11" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/a12" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/a13" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/a14" android:background="@color/colorButtonDialog" android:layout_width="match_parent" android:layout_height="match_parent" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="300dp" android:layout_height="20dp" android:orientation="horizontal">
+        <Button android:id="@+id/b0" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/b1" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/b2" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/b3" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/b4" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/b5" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/b6" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/b7" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/b8" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/b9" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/b10" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/b11" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/b12" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/b13" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/b14" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="300dp" android:layout_height="20dp" android:orientation="horizontal">
+        <Button android:id="@+id/c0" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/c1" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/c2" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/c3" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/c4" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/c5" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/c6" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/c7" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/c8" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/c9" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/c10" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/c11" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/c12" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/c13" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/c14" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="300dp" android:layout_height="20dp" android:orientation="horizontal">
+        <Button android:id="@+id/d0" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/d1" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/d2" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/d3" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/d4" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/d5" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/d6" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/d7" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/d8" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/d9" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/d10" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/d11" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/d12" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/d13" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/d14" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="300dp" android:layout_height="20dp" android:orientation="horizontal">
+        <Button android:id="@+id/e0" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/e1" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/e2" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/e3" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/e4" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/e5" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/e6" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/e7" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/e8" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/e9" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/e10" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/e11" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/e12" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/e13" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/e14" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="300dp" android:layout_height="20dp" android:orientation="horizontal">
+        <Button android:id="@+id/f0" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/f1" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/f2" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/f3" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/f4" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/f5" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/f6" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/f7" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/f8" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/f9" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/f10" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/f11" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/f12" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/f13" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/f14" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="300dp" android:layout_height="20dp" android:orientation="horizontal">
+        <Button android:id="@+id/g0" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/g1" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/g2" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/g3" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/g4" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/g5" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/g6" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/g7" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/g8" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/g9" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/g10" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/g11" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/g12" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/g13" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/g14" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="300dp" android:layout_height="20dp" android:orientation="horizontal">
+        <Button android:id="@+id/h0" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/h1" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/h2" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/h3" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/h4" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/h5" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/h6" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/h7" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/h8" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/h9" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/h10" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/h11" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/h12" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/h13" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/h14" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="300dp" android:layout_height="20dp" android:orientation="horizontal">
+        <Button android:id="@+id/i0" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/i1" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/i2" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/i3" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/i4" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/i5" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/i6" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/i7" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/i8" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/i9" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/i10" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/i11" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/i12" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/i13" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/i14" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="300dp" android:layout_height="20dp" android:orientation="horizontal">
+        <Button android:id="@+id/j0" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/j1" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/j2" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/j3" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/j4" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/j5" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/j6" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/j7" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/j8" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/j9" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/j10" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/j11" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/j12" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/j13" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/j14" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="300dp" android:layout_height="20dp" android:orientation="horizontal">
+        <Button android:id="@+id/k0" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/k1" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/k2" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/k3" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/k4" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/k5" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/k6" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/k7" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/k8" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/k9" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/k10" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/k11" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/k12" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/k13" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/k14" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="300dp" android:layout_height="20dp" android:orientation="horizontal">
+        <Button android:id="@+id/l0" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/l1" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/l2" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/l3" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/l4" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/l5" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/l6" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/l7" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/l8" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/l9" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/l10" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/l11" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/l12" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/l13" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+        <Button android:id="@+id/l14" android:background="@color/colorButtonDialog" android:layout_width="20dp" android:layout_height="match_parent" android:textColor="@color/colorTextDialog" />
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>
