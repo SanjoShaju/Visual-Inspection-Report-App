@@ -1,4 +1,4 @@
-This is an android app that I created for ZF WindPower to automate their Visual Inspection Report of their manufactured parts.
+This is an **android app** that I created for ZF WindPower in **Android Studio** to automate their Visual Inspection Report of their manufactured parts.
 The app does the following functions
 * Creates the report in **.csv** or **.pdf** format
 * Takes **pictures** of the fault whenever necessary and saves it along with the pdf file generated.
