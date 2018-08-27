@@ -1,5 +1,5 @@
 This is an android app that I created for ZF WindPower to automate their Visual Inspection Report of their manufactured parts.
-The app does the following functions
+The app does the following functions\n
 1 - Creates the report in .csv or .pdf format
 2 - Takes pictures of the fault whenever necessary and saves it along with the pdf file generated.
 3 - Can send SMS to the required people whenever the inspector comes across an issue.
