@@ -1,5 +1,5 @@
 # Visual Inspection Reporter
-This is an **android app** that I created for ZF WindPower in **Android Studio** to automate their Visual Inspection Report of their manufactured parts.
+This is an **android app** that I created for a wind turbine manufacturer in **Android Studio** to automate their Visual Inspection Report of their manufactured parts.
 The app does the following functions
 * Creates the report in **.csv** or **.pdf** format
 * Takes **pictures** of the fault whenever necessary and saves it along with the pdf file generated.
